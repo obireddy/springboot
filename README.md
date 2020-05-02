@@ -1,3 +1,3 @@
 # springboot
 Sample spring boot project
-In the release branch
+In the release candidate branch
